@@ -3,7 +3,7 @@
 
 ## <span style="font-weight:bolder">Le Concept</span>
 
-Ce programme est une adaptation d'un jeu connu : <span>Le jeu des allumettes</span>
+Ce programme est une adaptation d'un jeu connu : <span>Le jeu des allumettes.</span><br>
 Ce jeu se joue a deux. Les joueurs sont devant 30 allumettes.<br><br>A chaque tour, il faut enlever 1, 2 ou 3 allumettes.<br>
 Celui qui prend la derniere allumette perd.<br>
 <hr>
@@ -36,4 +36,4 @@ Celui qui prend la derniere allumette perd.<br>
 Jeu code par Michel FLORANTIN & Quentin FRANCOIS.
 </li>
 <hr>
-<span style="color:grey"> Crédits : Jeu codé par Michel FLORANTIN & Quentin FRANCOIS</span>
+<span style="color:grey"> Crédits : Jeu codé par Michel FLORANTIN & Quentin FRANCOIS.</span>
