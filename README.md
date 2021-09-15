@@ -28,13 +28,12 @@ En cliquant sur jeu, on accede a 3 modes de jeu :
 <li>Retour au menu</li>
 </ul>
 </li>
-<li><span style="color:#d78585;text-decoration: underline">Les Règles</span>
- <ul>Et en cliquant sur règles, on accede aux règles du jeu :
-<li>Ce jeu se joue a deux. Les joueurs sont devant 30 allumettes.</li>
-<li>A chaque tour, il faut en enlever 1, 2 ou 3.</li>
-<li>Celui qui prend la derniere allumette perd.</li>
-<li>Jeu code par Michel FLORANTIN & Quentin FRANCOIS.</li>
-</ul>
+<li><span style="color:#d78585;text-decoration: underline">Les Règles<br></span>
+ Et en cliquant sur règles, on accede aux règles du jeu :
+Ce jeu se joue a deux. Les joueurs sont devant 30 allumettes.
+A chaque tour, il faut en enlever 1, 2 ou 3.
+Celui qui prend la derniere allumette perd.<br>
+Jeu code par Michel FLORANTIN & Quentin FRANCOIS.
 </li>
 <hr>
 <span style="color:grey"> Crédits : Jeu codé par Michel FLORANTIN & Quentin FRANCOIS</span>
