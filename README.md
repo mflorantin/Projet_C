@@ -28,7 +28,6 @@ En cliquant sur jeu, on accede a 3 modes de jeu :
 <li>Retour au menu</li>
 </ul>
 </li>
-li
 <li><span style="color:#d78585;text-decoration: underline">Les Règles</span>
  <ul>Et en cliquant sur règles, on accede aux règles du jeu :
 <li>Ce jeu se joue a deux. Les joueurs sont devant 30 allumettes.</li>
